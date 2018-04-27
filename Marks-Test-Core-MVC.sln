@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marks-Test-Core-MVC", "Marks-Test-Core-MVC.csproj", "{0102D82C-282D-468D-8377-1E18FF50FA2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0102D82C-282D-468D-8377-1E18FF50FA2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0102D82C-282D-468D-8377-1E18FF50FA2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0102D82C-282D-468D-8377-1E18FF50FA2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0102D82C-282D-468D-8377-1E18FF50FA2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

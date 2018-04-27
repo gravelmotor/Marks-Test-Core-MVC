@@ -1,0 +1,11 @@
+/Users/mark.harrington/Projects/Marks-Test-Core-MVC/Marks-Test-Core-MVC/bin/Debug/netcoreapp2.0/Marks-Test-Core-MVC.deps.json
+/Users/mark.harrington/Projects/Marks-Test-Core-MVC/Marks-Test-Core-MVC/bin/Debug/netcoreapp2.0/Marks-Test-Core-MVC.runtimeconfig.json
+/Users/mark.harrington/Projects/Marks-Test-Core-MVC/Marks-Test-Core-MVC/bin/Debug/netcoreapp2.0/Marks-Test-Core-MVC.runtimeconfig.dev.json
+/Users/mark.harrington/Projects/Marks-Test-Core-MVC/Marks-Test-Core-MVC/bin/Debug/netcoreapp2.0/Marks-Test-Core-MVC.dll
+/Users/mark.harrington/Projects/Marks-Test-Core-MVC/Marks-Test-Core-MVC/bin/Debug/netcoreapp2.0/Marks-Test-Core-MVC.pdb
+/Users/mark.harrington/Projects/Marks-Test-Core-MVC/Marks-Test-Core-MVC/obj/Debug/netcoreapp2.0/Marks-Test-Core-MVC.csprojResolveAssemblyReference.cache
+/Users/mark.harrington/Projects/Marks-Test-Core-MVC/Marks-Test-Core-MVC/obj/Debug/netcoreapp2.0/Marks-Test-Core-MVC.csproj.CoreCompileInputs.cache
+/Users/mark.harrington/Projects/Marks-Test-Core-MVC/Marks-Test-Core-MVC/obj/Debug/netcoreapp2.0/Marks-Test-Core-MVC.AssemblyInfoInputs.cache
+/Users/mark.harrington/Projects/Marks-Test-Core-MVC/Marks-Test-Core-MVC/obj/Debug/netcoreapp2.0/Marks-Test-Core-MVC.AssemblyInfo.cs
+/Users/mark.harrington/Projects/Marks-Test-Core-MVC/Marks-Test-Core-MVC/obj/Debug/netcoreapp2.0/Marks-Test-Core-MVC.dll
+/Users/mark.harrington/Projects/Marks-Test-Core-MVC/Marks-Test-Core-MVC/obj/Debug/netcoreapp2.0/Marks-Test-Core-MVC.pdb
